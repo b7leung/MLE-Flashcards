@@ -11,7 +11,7 @@ The PDFs in this repo are mostly for convenience. __Check out these presentation
 * [3 Fundamentals for Computer Vision & Deep Learning Slides](https://docs.google.com/presentation/d/1Ru9UPxlXnx7FZ3bxcQ-SH9TB6nHtOflYYA1N_UMzv2g/edit?usp=sharing)
 * [4 Selected Topics in Computer Vision & Deep Learning Slides](https://docs.google.com/presentation/d/1tWWiKR-GI3uO0QKU-CBfLdGOvSyv-pD8g_kjuZvm4Mc/edit?usp=sharing)
 
-Some slides might be overly technical or academic, and not relevant to engineers. The most important slides (in my opinion) are marked with a star in the lower left corner.
+Questions are loosely based off [Chip Huyen's ML Interviews Book questions](https://huyenchip.com/ml-interviews-book/contents/part-ii.-questions.html). However, some slides might be overly technical or academic, and not relevant to engineers. The most important slides (in my opinion) are marked with a star in the lower left corner.
 
 __<ins>Disclaimer: These slides do not contain any specific interview questions from any companies. I actually completed them before I interviwed anywhere, as an academic exercise for myself. The flashcards cover various fundamental topics and would likely serve as a good foundation for broad knowledge in the fields of CS and ML.</ins>__
 
