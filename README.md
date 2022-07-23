@@ -1,6 +1,6 @@
 # Machine Learning Engineer - Flashcards
 
-These are flashcards I made to prepare for machine learning engineer interviews, and review everything from my years of ML research, classes, and independent study. Using them, I was able to get offers from several companies (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully other people can benefit from them as well!
+These are flashcards I made to review everything from my years of ML research, classes, and independent study. I used them to prepare for machine learning engineer interviews and was able to get offers from several companies (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully other people can benefit from them as well!
 
 The PDFs in this repo are mostly for convenience. __Check out these presentation slide links for the most up to date and animated versions__, with additional links in the speaker notes:
 
@@ -11,15 +11,15 @@ The PDFs in this repo are mostly for convenience. __Check out these presentation
 
 # Intended Scope and Audience
 
-The flashcards covers topics relating to computer science, classical machine learning, and modern deep learning with an emphasis on computer vision. They generally assume a good foundation in these topics, and a lot of technical terminology is used. I think the approach might be different depending on your current experience:
+This covers computer science, classical machine learning, and modern deep learning with an emphasis on computer vision. It generally assumes a good foundation in these topics, and a lot of technical terminology is used. I think the approach might be different depending on your current experience:
 
-* If you already have a good foundation in ML, and want to review (e.g. for work, to prep for interviews, or just for your knowledge), you can probably use them as-is and fill in any missing knowledge gaps
+* Already have a __good foundation in ML__: you can probably use them __as-is to review__ and fill in any missing knowledge gaps
 
-* If you are newer to ML, this may provide a good overview of what is out there, and I'd suggest subsequently refering to other materials that are focused on education & learning (see "additional links" below)
+* __Newer to ML__, this may provide a good overview of what is out there, and I'd suggest subsequently __refering to other materials focused on education__ & learning (see "additional links" below)
 
 # Important Slides
 
-Note that some ML flashcards are more important than others. From my experience interviewing at 10+ companies focusing on computer vision roles in 2022, these are the most important slides:
+In my opinion, these are the most important slides:
 
 * Machine Learning General: 1,
 * Fundamentals for Computer Vision & Deep Learning: 1,
@@ -43,5 +43,3 @@ If you're interviewing for MLE roles, conceptual ML knowledge is only a third of
 * Resources for the programming portion
   * https://www.crackingthecodinginterview.com/
   * https://leetcode.com/
-
-
