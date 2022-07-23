@@ -1,4 +1,4 @@
-# Machine Learning Engineer - Flashcards
+# Machine Learning Research & Engineering - Flashcards
 
 ![image](https://user-images.githubusercontent.com/20059131/180619266-6319972e-03c3-42f7-8d88-bdd240cb13bc.png)
 
