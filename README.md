@@ -31,8 +31,6 @@ __*Please mark the slide in question so others can easily find it, e.g. if you w
 
 # Additional Links & Resources
 
-If you're interviewing for MLE roles, conceptual ML knowledge is only a third of what you need to know. The other usual components are programming questions, and behaviorial questions based on projects you've done in the past. Here are some useful resources to help with everything:
-
 * The most useful resource I've found to learn about the MLE interview process holistically
   * https://huyenchip.com/ml-interviews-book/
 * Useful course materials for ML from stanford and UC Berkeley
