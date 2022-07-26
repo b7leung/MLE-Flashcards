@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/20059131/180619266-6319972e-03c3-42f7-8d88-bdd240cb13bc.png)
 
-These are 200+ flashcards I made to review everything from my years of ML research, classes, and independent study. Creating them helped me prepare for machine learning engineer interviews and was able to get offers from several companies in 2022 (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully other people can benefit from them as well!
+These are 200+ flashcards I made to review everything from my years of ML research, classes, and independent study. Creating them helped me prepare for machine learning engineer interviews and was able to get offers from several companies in 2022 (including Google, Tesla, Samsung, Motional, UiPath, and TikTok). Hopefully, other people can benefit from them as well!
 
 The PDFs in this repo are mostly for convenience. __Check out these presentation slide links for the most up to date and animated Q&A versions__, with additional links in the speaker notes:
 
@@ -17,11 +17,11 @@ __<ins>Disclaimer: These slides do not contain any specific interview questions 
 
 # Intended Scope and Audience
 
-This covers computer science, classical machine learning, and modern deep learning with an emphasis on computer vision. It generally assumes a good foundation in these topics, and a lot of technical terminology is used. I think the approach might be different depending on your current experience:
+This covers computer science, classical machine learning, and modern deep learning with an emphasis on computer vision. It generally assumes a good foundation in these topics, and a lot of technical terminologies are used. I think the approach might be different depending on your current experience:
 
 * Already have a __good foundation in ML__: you can probably use them __as-is to review__ and fill in any missing knowledge gaps
 
-* __Newer to ML__, this may provide a good overview of what is out there, and I'd suggest also __refering to other materials focused on education__ & learning (see "additional links" below)
+* __Newer to ML__, this may provide a good overview of what is out there, and I'd suggest also __referring to other materials focused on education__ & learning (see "additional links" below)
 
 # Contributing
 
