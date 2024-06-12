@@ -39,3 +39,5 @@ __*Please mark the slide in question so others can easily find it, e.g. if you w
 * Resources for the programming portion
   * https://www.crackingthecodinginterview.com/
   * https://leetcode.com/
+* Resources for the AI & ML Tech Career Path
+  * https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/
