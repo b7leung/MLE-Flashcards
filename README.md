@@ -18,7 +18,7 @@ The PDFs in this repo are mostly for convenience. __Check out these presentation
 
 # Intended Scope and Audience
 
-These flashcards generally assume a good foundation in these topics, and a lot of technical terminology is used. I think the approach might be different depending on your current experience:
+These flashcards generally assume a good foundation in these topics, and a lot of technical terminology is used. I think your approach might be different depending on your current experience:
 
 * Already have a __good foundation in ML__: you can probably use them __as-is to review__ and fill in any missing knowledge gaps
 
