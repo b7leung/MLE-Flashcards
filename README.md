@@ -9,16 +9,9 @@ Topics covered includes: **computer science, classical ML, modern deep learning,
 ![image](https://github.com/user-attachments/assets/3e4ec6fb-af6c-48d5-8bd9-b525170b3cd0)
 
 
-The PDFs in this repo are mostly for convenience. __Check out these presentation slide links for the most up to date and animated Q&A versions__, with additional links in the speaker notes:
-
-* [1 Computer Science Slides](https://1drv.ms/p/c/95e333b92a823007/Ediw1q-uWsdDlixeihW9U3MBwwi0RMy5ZZogFafBc6qBzw?e=9qYX3o)
-* [2 Machine Learning General Slides](https://1drv.ms/p/c/95e333b92a823007/EZRILoRmccRNgyrSpKTyaUYBOG3cOC3-bwp5vcNr2XggWA?e=jUclrR)
-* [3 Fundamentals for Computer Vision & Deep Learning Slides](https://1drv.ms/p/c/95e333b92a823007/EdjDBc2ya9JLqak-1uangwwB23BHkreFXwumccRomJYH4w?e=8EgdjA)
-* [4 Selected Topics in Computer Vision & Deep Learning Slides](https://1drv.ms/p/c/95e333b92a823007/EfK2t5EkIGpAhgpatiYDclYBS7W7wjEP8FQiddgMuYmQTg?e=fljY5a)
-
 # Intended Scope and Audience
 
-These flashcards generally assume a good foundation in these topics, and a lot of technical terminology is used. I think your approach might be different depending on your current experience:
+These flashcards generally assume a good foundation in these topics, and a lot of technical terminology is used. Potential approaches may differ depending on your current experience:
 
 * Already have a __good foundation in ML__: you can probably use them __as-is to review__ and fill in any missing knowledge gaps
 
